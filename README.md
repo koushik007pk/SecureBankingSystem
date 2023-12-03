@@ -1,13 +1,7 @@
 # SecureBankingSystem
 The Secure Banking System is a Java application that demonstrates secure communication and data integrity using various cryptographic techniques. This application implements features such as RSA key pair generation, digital signature generation and verification, AES encryption and decryption, and performance measurement of memory usage and CPU usage.
 
-Table of Contents
-Prerequisites
-Features
-Usage
-File Structure
-Performance Measurement
-License
+
 Prerequisites
 Java Development Kit (JDK) 8 or later
 A code editor or Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse
