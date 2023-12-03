@@ -2,10 +2,13 @@
 The Secure Banking System is a Java application that demonstrates secure communication and data integrity using various cryptographic techniques. This application implements features such as RSA key pair generation, digital signature generation and verification, AES encryption and decryption, and performance measurement of memory usage and CPU usage.
 
 
-Prerequisites
+Prerequisites:
+
 Java Development Kit (JDK) 8 or later
 A code editor or Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse
-Features
+
+Features:
+
 RSA Key Pair Generation:
 
 Generates a new RSA key pair with a 4096-bit key length.
@@ -42,10 +45,12 @@ Follow the prompts to input the path to the file containing the original data.
 
 Review the output, including encryption throughput, decryption throughput, and digital signature verification.
 
-File Structure
+File Structure:
+
 banking.java: The main Java file containing the Secure Banking System application.
 Performance Measurement
 The application includes features to measure memory usage and CPU usage before and after specific operations. The calculated throughput for encryption and decryption is also displayed.
 
-License
+License:
+
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
