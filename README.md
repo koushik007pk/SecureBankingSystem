@@ -51,6 +51,4 @@ banking.java: The main Java file containing the Secure Banking System applicatio
 Performance Measurement
 The application includes features to measure memory usage and CPU usage before and after specific operations. The calculated throughput for encryption and decryption is also displayed.
 
-License:
 
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
